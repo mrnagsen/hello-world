@@ -1,0 +1,15 @@
+*{
+  margin :0px;
+  padding: 0px;
+  
+  
+}
+.button{
+ height: 40px;
+  width: 44px;
+}
+.text{
+  padding: 20px;
+  margin:20px ;
+  height: 40px;
+}
