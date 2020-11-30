@@ -18,7 +18,6 @@
       function clean(){
         document.form.text.value="";
       }
-      
     </script>
     <div class ="main">
       <form name ="form">
